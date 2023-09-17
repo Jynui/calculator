@@ -1,0 +1,15 @@
+/Users/tagirner/Projects/wasd/wasd/obj/Debug/net7.0/wasd.csproj.AssemblyReference.cache
+/Users/tagirner/Projects/wasd/wasd/obj/Debug/net7.0/wasd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tagirner/Projects/wasd/wasd/obj/Debug/net7.0/wasd.AssemblyInfoInputs.cache
+/Users/tagirner/Projects/wasd/wasd/obj/Debug/net7.0/wasd.AssemblyInfo.cs
+/Users/tagirner/Projects/wasd/wasd/obj/Debug/net7.0/wasd.csproj.CoreCompileInputs.cache
+/Users/tagirner/Projects/wasd/wasd/bin/Debug/net7.0/wasd
+/Users/tagirner/Projects/wasd/wasd/bin/Debug/net7.0/wasd.deps.json
+/Users/tagirner/Projects/wasd/wasd/bin/Debug/net7.0/wasd.runtimeconfig.json
+/Users/tagirner/Projects/wasd/wasd/bin/Debug/net7.0/wasd.dll
+/Users/tagirner/Projects/wasd/wasd/bin/Debug/net7.0/wasd.pdb
+/Users/tagirner/Projects/wasd/wasd/obj/Debug/net7.0/wasd.dll
+/Users/tagirner/Projects/wasd/wasd/obj/Debug/net7.0/refint/wasd.dll
+/Users/tagirner/Projects/wasd/wasd/obj/Debug/net7.0/wasd.pdb
+/Users/tagirner/Projects/wasd/wasd/obj/Debug/net7.0/wasd.genruntimeconfig.cache
+/Users/tagirner/Projects/wasd/wasd/obj/Debug/net7.0/ref/wasd.dll
